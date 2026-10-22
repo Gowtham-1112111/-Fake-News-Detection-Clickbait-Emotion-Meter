@@ -1,0 +1,8 @@
+{
+  "name": "FAKE AI: Fake News Detection & Clickbait Emotion Meter",
+  "description": "Full-stack media forensics suite with 3-model machine learning ensemble, clickbait gauge, subjectivity & sentiment analysis, and explainable AI word highlighting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
